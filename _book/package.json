@@ -1,0 +1,22 @@
+﻿{
+  "name": "3dscan_checklist",
+  "version": "1.0.0",
+  "description": "欢迎来到\"YOCTO\"团队的博客！这里将提供问题排查checklist，方便后续自检与排查。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoctoVision/3Dscan_checklist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YoctoVision/3Dscan_checklist/issues"
+  },
+  "homepage": "https://github.com/YoctoVision/3Dscan_checklist#readme"
+}
