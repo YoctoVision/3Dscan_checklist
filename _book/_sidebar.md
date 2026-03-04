@@ -1,7 +1,0 @@
-* [首页](README.md)
-* [部署文档](deploy/document.md)
-* [问题排查手册](3DScan/README.md)
-* [使用说明书](userguide/README.md)
-  * [界面介绍](userguide/interface.md)
-  * [功能介绍](userguide/function.md)
-* [软件更新日志](versions.md)
