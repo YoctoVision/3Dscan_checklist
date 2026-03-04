@@ -10,7 +10,7 @@
   },
   "pluginsConfig": {
     "theme-default": {
-      "showLevel": false
+      "showLevel": true
     }
   },
   "plugins": ["-sharing", "-fontsettings"],
