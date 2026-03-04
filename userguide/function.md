@@ -4,15 +4,15 @@
 
 ### 序列号
 
-1. 点击菜单中的"帮助"->"序列号"，界面会显示出该设备的"机器码"，同时序列号位置为空。
+点击菜单中的"帮助"->"序列号"，界面会显示出该设备的"机器码"，同时序列号位置为空。
 
-   ![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/17f8d626a2036ec06386ce6a519f3e0ef12c6e246160488ae0434e173fae5e29.jpg)
+![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/17f8d626a2036ec06386ce6a519f3e0ef12c6e246160488ae0434e173fae5e29.jpg)
 
-   ![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/45ccfc50c82e7edb8f283a92b7f38ed975cb55eda43ff672f0f2cad32a3c2b80.jpg)
+![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/45ccfc50c82e7edb8f283a92b7f38ed975cb55eda43ff672f0f2cad32a3c2b80.jpg)
 
-2. 复制界面中的"机器码"，并发给官方获取序列号。
+复制界面中的"机器码"，并发给官方获取序列号。
 
-3. 将序列号填入并提交，此时序列号步骤完成。等待10s，弹窗提示"序列号已授权并重启服务"，左下角提示"启动服务成功！"：
+将序列号填入并提交，此时序列号步骤完成。等待10s，弹窗提示"序列号已授权并重启服务"，左下角提示"启动服务成功！"：
 
    ![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/0809d1ec03a0da13259508ebe33bf0c187e11ebf84bf87b25b199d5eedc6c423.jpg)
 
