@@ -8,7 +8,7 @@ li:has(.gitbook-link) {
     display: none !important;
 }
 
-/* 兼容性写法 - 隐藏包含 GitBook 链接的 li 元素 */
-.summary li:last-child {
+/* 兼容性写法 - 更精确地隐藏包含 GitBook 链接的 li 元素 */
+.summary li:has(a[href*="gitbook.com"]) {
     display: none !important;
 }
