@@ -1,0 +1,14 @@
+/* 隐藏 GitBook 链接 */
+.gitbook-link {
+    display: none !important;
+}
+
+/* 隐藏 GitBook 链接的父元素 */
+li:has(.gitbook-link) {
+    display: none !important;
+}
+
+/* 兼容性写法 - 隐藏包含 GitBook 链接的 li 元素 */
+.summary li:last-child {
+    display: none !important;
+}

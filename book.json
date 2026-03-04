@@ -1,0 +1,20 @@
+{
+  "title": "3DScan Checklist",
+  "language": "zh-hans",
+  "author": "Yocto团队",
+  "links": {
+    "sidebar": {
+      "作者：Yocto团队": ""
+    },
+    "gitbook": false
+  },
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  },
+  "plugins": ["-sharing", "-fontsettings"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
