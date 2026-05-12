@@ -2,13 +2,15 @@
 
 ## 软件安装
 
-1. 下载安装包 3DScan_Setup.exe 放到 D 盘，然后右键点击，选择"以管理员身份运行"，选择所要安装的目录，一般是 D 盘根目录，成功后将出现 D:\3Dscan 文件夹
+1. 下载压缩包3DScan_Setup.zip，并解压，得到如图所示文件夹。
+![安装包目录](images/安装包目录.png)
+然后右键点击3DScan_Setup.exe，选择"以管理员身份运行"，选择所要安装的目录，一般是 D 盘根目录，成功后将出现 D:\3Dscan 文件夹。
 
-2. 在 D:\3Dscan 目录下，创建 AOI Based 3D_Scan.exe 桌面快捷方式，这就是后期外观检测的工作程序。
+> **注意**：安装包安装时，不强制要求安装到 D 盘根目录，也可以选择其他目录，但建议不要安装到系统盘（如 C 盘）。
 
-> **注意**：是给 AOI Based 3D_Scan.exe 程序创建桌面快捷键，不是 AOI Based3D Scan System.exe
+2. 在项目目录下，创建 AOI Based 3D_Scan.exe 桌面快捷方式，这就是后期外观检测的工作程序。
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/42aac996-8d24-4c16-81d9-bb09818e6a8f/6b53e8e3abdf47afe1a88b80397d183c8561f62466a29bd692365cc78e39e04f.jpg)
+3. 
 
 ## 现场摄像头配置
 
@@ -24,12 +26,11 @@
 ## 序列号设置
 
 1. 打开 AOI Based 3D_Scan.exe，点击菜单"帮助"->"序列号"，界面会显示出该设备的"机器码"，同时序列号位置为空。
-
-   ![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/42aac996-8d24-4c16-81d9-bb09818e6a8f/dc96341e8f981be7f3fe845af7abb01f43fc70b6b7ee4e596f8b5c5ef0b1545d.jpg)
+  ![alt text](images/机器码.png)
 
 2. 复制界面中的"机器码"，并发给官方获取序列号。
 
-3. 将序列号填入并提交，此时序列号步骤完成。等待10s，弹窗提示"序列号已授权并重启服务"，左下角提示"启动服务成功！"，窗口变成"序列号-已授权"状态：
+3. 将序列号填入并提交，此时序列号步骤完成。等待3s，弹窗提示"序列号已授权并重启服务"，左下角提示"启动服务成功！"，窗口变成"序列号-已授权"状态：
 
 ![image](./images/已授权.jpg)
 
@@ -40,22 +41,17 @@
 - 出现如下弹窗，选择对应的语言，点击后出现语言设置窗口，选择对应需要的语言，当前语言为不可选中状态：
 
 ![image](./images/语言设置.jpg)
-  
-- 点击要选的语言后会出现确认弹窗，点击确定会立即退出，点击取消则不会切换语言：
-
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/42aac996-8d24-4c16-81d9-bb09818e6a8f/72eb2ed2f80440bdf7dde275aecc05a8beba9603e64929c76ee290c60eeaa560.jpg)
-
-- 点击确定会立即退出，重新进入即为选定语言了。
-
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/42aac996-8d24-4c16-81d9-bb09818e6a8f/839ac328ea042f8698c1020fcbbdffe11c28af8ceefc5c54d4d7d63fee16ec31.jpg)
 
 ## 工位配置
 
 ### 相机设置
 
 - 点击菜单"相机设置"，可以修改相机参数、拍照参数和进行拍照测试。
+![alt text](images/相机界面.png)  
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/42aac996-8d24-4c16-81d9-bb09818e6a8f/9815c01c3b274c040eb8f1e36f60416a9e3084f75c6406cec17b150cfdf00ca6.jpg)
+- 点击"测试拍照"，可以测试相机拍照功能，并保存到本地。
+
+- 点击"添加相机"，可以添加多个相机，每个相机都可以设置自己的别名、分辨率、曝光时间、快门速度等参数。
 
 > **提示**：每一个相机都要设置一下别名，其他信息最好不要修改。然后点击"测试拍照"的时候，当前对应的相机会执行拍照。
 

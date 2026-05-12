@@ -1,4 +1,0 @@
-/* 隐藏章节编号 */
-.summary .chapter > a > b {
-    display: none !important;
-}

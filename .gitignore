@@ -1,1 +1,13 @@
+# 依赖目录
 node_modules/
+
+# GitBook 构建输出目录（构建产物，可重新生成）
+_book/
+
+# 临时文件
+*.tmp
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
