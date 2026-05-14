@@ -2,25 +2,16 @@
 
 ## 程序启动
 
-- 程序安装后如下图所示（此处以D盘根目录举例）：
+- 1.下载压缩包3DScan_Setup.zip放到D盘并解压，得到如图所示文件夹。
+![alt text](../images/安装包目录.png)
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/5cf80050c0c001cc0c7bf3c29fc65882d8550b4041fde30cae6d3b2501f27bb7.jpg)
-
-- 双击运行 AOI Based 3D_Scan.exe
-
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/b6e3f49757c3d62caa43cad56db5d90c5364cd06395ea052c9aaaaefce88405c.jpg)
+- 然后右键点击3DScan_Setup.exe，选择“以管理员身份运行”，选择所要安装的目录，一般是D盘根目录，成功后将出现D:\3Dscan文件夹,这是项目文件夹。
+![alt text](../images/项目目录.png)
 
 - 初次运行程序如下图所示：
-
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-03-03/14b6717c-5511-4903-ae50-48bb863a39c4/a5562793bf71a8ee600452dbe3065081ce0517f63c25b897aaf52a1acb589efa.jpg)
+![alt text](../images/主界面.png)
 
 > **注意**：需要输入序列号激活程序。
-
-## 主界面
-
-- 程序主界面如下图所示：
-
-![![alt text](image.png)](../images/主界面.png)
 
 ### 仪表盘
 
